@@ -1,3 +1,10 @@
-h1{}
-li{}
-p{color}
+body{
+background:#2B2B2B;
+background-size:cover !important;
+}
+
+header{background:orange;}
+main{background:beage;}
+nav{background:lime;}
+aside{background:blue;}
+footer{background:pink;}
